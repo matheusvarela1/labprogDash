@@ -114,7 +114,7 @@ function Dashboard() {
             <Card>
               <CardHeader>
                 <CardTitle tag="h5">Mapemento das Doenças</CardTitle>
-                <p className="card-category">Mapa de Calor</p>
+                {/* <p className="card-category">Mapa de Calor</p> */}
               </CardHeader>
               <CardBody>
                 {/* <Line
